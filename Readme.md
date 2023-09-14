@@ -1,9 +1,14 @@
-# Projeto com Readme
-Um projeto de teste com um arquivo README 👌🏼
+# Projeto com Readme.md
 
-Descreverei abaixo como colocar um gif (como exemplo, a aula de Readme.md do curso Online do "DevQuest").
+## O Que é um Readme?
+Nada menos que um arquivo de leitura.
+
+## O Que é a extensão .md?
+A extensão .md significa Markdown.
+ Os arquivos MD são arquivos de texto simples que empregam o Linguagem Markdown, que inclui símbolos de texto embutidos que definem como um texto pode ser estruturado, incluindo recuos, formatação de tabela, fontes e cabeçalhos.
 
 ## Utilizando Gifs
+Descreverei abaixo como colocar um gif (como exemplo, a aula de Readme.md do curso Online do "DevQuest").
 
 Você pode baixar o programa "Screen To Gif", deixarei o link abaixo:
 
